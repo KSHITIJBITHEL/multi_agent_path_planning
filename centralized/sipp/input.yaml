@@ -6,7 +6,7 @@ agents:
     goal: [0, 0]
     name: agent1
 map:
-    dimensions: [10, 10]
+    dimensions: [5, 5]
     obstacles:
     - !!python/tuple [0, 1]
     - !!python/tuple [2, 1]
